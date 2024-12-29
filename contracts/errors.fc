@@ -1,0 +1,10 @@
+const int error::wrong_workchain = 400;
+const int error::unauthorized_owner_request = 401;
+const int error::invalid_item_index = 402;
+const int error::batch_mint_limit = 403;
+const int error::not_enough_ton = 404;
+const int error::empty_body = 405;
+const int error::not_enough_gas = 406;
+const int error::unauthorized_editor_request = 407;
+const int error::unknown_rarity = 408;
+const int error::rarity_purchase_limit = 409;

@@ -1,0 +1,20 @@
+;; Collection
+const int op::purchase = 0x6117d13b;
+const int op::get_royalty_params = 0x3d22e46;
+const int op::mint = 0x318f361;
+const int op::batch_mint = 0x937c199e;
+const int op::change_owner = 0x93b05b31;
+const int op::change_content = 0xec29200;
+const int op::change_fee = 0x476c06a8;
+const int op::report_royalty_params = 0xb5169536;
+const int op::fee_payout = 0x9bfde78a;
+
+;; Item
+const int op::transfer = 0x4034a3c0;
+const int op::ownership_assigned = 0x66115c2c;
+const int op::excesses = 0x3a70c2c;
+const int op::get_static_data = 0x6fea600f;
+const int op::report_static_data = 0x874501de;
+const int op::transfer_editorship = 0x79413cb3;
+const int op::editorship_assigned = 0x503da6a9;
+const int op::edit_content = 0x443b8b13;
